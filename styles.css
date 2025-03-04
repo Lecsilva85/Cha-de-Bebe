@@ -28,8 +28,8 @@
         width: 130px;
         height: 130px;
         position: absolute;
-        margin-top: 395px;
-        margin-left: -15px;
+        margin-top: 385px;
+        margin-left: -20px;
     }
 
     .container-home {
@@ -132,20 +132,10 @@
         margin-top: -8px;
     }
 
-    .img-whats {
-        display: inline-block;
-        width: 25px;
-        cursor: pointer;
-        margin-bottom: -5px;
+    .contato {
+        font-weight: bold;
     }
 
-    .img-pix {
-        display: inline-block;
-        width: 50px;
-        cursor: pointer;
-    }
-
-    h6 {
-        font-size: 15px;
+    span {
         color: #d43793;
     }
