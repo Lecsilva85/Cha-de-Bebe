@@ -16,7 +16,7 @@
 
     .agnes-abraçando {
         display: flex;
-        width: 145px;
+        width: 158px;
         height: 130px;
         position: absolute;
         margin-top: -50px;
@@ -28,7 +28,7 @@
         width: 130px;
         height: 130px;
         position: absolute;
-        margin-top: 385px;
+        margin-top: 371px;
         margin-left: -20px;
     }
 
@@ -38,7 +38,7 @@
         margin-bottom: 30px;
         margin-left: 40px;
         width: 371px;
-        height: 550px;
+        height: 535px;
         display: flex;
         background-color: aliceblue;
         border: 5px solid #7fff00;
@@ -54,7 +54,7 @@
     }
 
     h1 {
-        margin-top: -25px;
+        margin-top: -22px;
         margin-bottom: 10px;
         color: #d43793;
         font-family: "Clicker Script", cursive;
